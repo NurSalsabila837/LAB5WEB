@@ -1,6 +1,6 @@
 # LAB5WEB
-## Nama : Khairinisya Ani .A.
-## NIM  : 312310365
+## Nama : Nur salsabila
+## NIM  : 312310344
 ## kelas :TI 23 A.4
 
 PENGENALAN JAVASCRIPT
@@ -26,9 +26,11 @@ menggunakan prompt atau input data berikut syntax
 ![Screenshot 2024-10-24 174726](https://github.com/user-attachments/assets/dcdd19f9-c829-4b65-9282-d349a5ebe92e)
 -HASIL
 akan muncul seperti ini apabila kita disuruh menginput data
-![Screenshot 2024-10-24 174704](https://github.com/user-attachments/assets/52a2ea4e-4160-4c87-8821-a6da9523768c)
+![Screenshot 2024-10-30 102233](https://github.com/user-attachments/assets/6f6d9f20-5445-4d1e-b85f-f7bbff06ae84)
+
 setelah menginput nama,maka jadi seperti ini
-![Screenshot 2024-10-25 144617](https://github.com/user-attachments/assets/365a6983-abeb-4f0f-a2a6-48c3200c85fb)
+![Screenshot 2024-10-30 102246](https://github.com/user-attachments/assets/0132f986-2a08-42a1-9bb3-3ece99986d6e)
+
 
 -PEMBUATAN FUNGSI DAN CARA PEMANGGILANNYA
 membuat sebuah fungsi dan cara memanggilnya. Berikut syntaxnya :
@@ -103,5 +105,6 @@ membuat form validasi berupa inputan nama, email dan alamat. Bila ada yang tidak
 ![Screenshot 2024-10-25 140713](https://github.com/user-attachments/assets/f82b9f75-4ec2-43cb-95d5-b62e801aa518)
 ![Screenshot 2024-10-25 140742](https://github.com/user-attachments/assets/80ef9e5a-128a-477d-b0bb-8819353b1fef)
 -HASIL
-![Screenshot 2024-10-25 140521](https://github.com/user-attachments/assets/775a3669-4d7e-4c96-a350-8a2a5f56d9cd)
-![Screenshot 2024-10-25 140604](https://github.com/user-attachments/assets/9bdebd66-43b3-4d16-a0e8-3a07904d4038)
+![Screenshot 2024-10-30 102003](https://github.com/user-attachments/assets/90ba2512-24aa-475a-a4f6-d6efc92f183f)
+![Screenshot 2024-10-30 102037](https://github.com/user-attachments/assets/196e3f2d-2baf-44f2-a7ba-5773b4131d83)
+
